@@ -1,0 +1,72 @@
+ "id": 10,
+        "title": "Strawberry Cheesecake",
+        "price": "6.50",
+        "featured": false,
+        "category": 2
+
+
+-----
+
+
+{
+		"id": 1,
+		"title": "Beef Pasta",
+		"price": "6.00",
+		"featured": false,
+		"category": 1
+	},
+	{
+		"id": 2,
+		"title": "Tomato Pasta",
+		"price": "4.00",
+		"featured": false,
+		"category": 1
+	},
+	{
+		"id": 3,
+		"title": "Lemon Dessert",
+		"price": "4.50",
+		"featured": true,
+		"category": 2
+	},
+	{
+		"id": 4,
+		"title": "Grilled Fish",
+		"price": "5.50",
+		"featured": false,
+		"category": 3
+	},
+	{
+		"id": 6,
+		"title": "Bruschetta",
+		"price": "9.00",
+		"featured": false,
+		"category": 1
+	},
+	{
+		"id": 7,
+		"title": "Greek Salad",
+		"price": "7.50",
+		"featured": false,
+		"category": 3
+	},
+	{
+		"id": 8,
+		"title": "Cheese sticks",
+		"price": "5.50",
+		"featured": false,
+		"category": 3
+	},
+	{
+		"id": 9,
+		"title": "Tiramisu",
+		"price": "6.00",
+		"featured": false,
+		"category": 2
+	},
+	{
+		"id": 11,
+		"title": "Strawberry Cheesecake",
+		"price": "6.50",
+		"featured": false,
+		"category": 2
